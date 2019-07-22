@@ -1,0 +1,6 @@
+D:\Project\C#\[Projects]\[Project]\BruteForceTask.BuyingBirds\BruteForceTask.BuyingBirds\bin\Debug\BruteForceTask.BuyingBirds.exe.config
+D:\Project\C#\[Projects]\[Project]\BruteForceTask.BuyingBirds\BruteForceTask.BuyingBirds\bin\Debug\BruteForceTask.BuyingBirds.exe
+D:\Project\C#\[Projects]\[Project]\BruteForceTask.BuyingBirds\BruteForceTask.BuyingBirds\bin\Debug\BruteForceTask.BuyingBirds.pdb
+D:\Project\C#\[Projects]\[Project]\BruteForceTask.BuyingBirds\BruteForceTask.BuyingBirds\obj\Debug\BruteForceTask.BuyingBirds.exe
+D:\Project\C#\[Projects]\[Project]\BruteForceTask.BuyingBirds\BruteForceTask.BuyingBirds\obj\Debug\BruteForceTask.BuyingBirds.pdb
+D:\Project\C#\[Projects]\[Project]\BruteForceTask.BuyingBirds\BruteForceTask.BuyingBirds\obj\Debug\BruteForceTask.BuyingBirds.csprojResolveAssemblyReference.cache
